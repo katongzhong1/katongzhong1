@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: katongzhong1
       - name: Commit & Push
         run: |
